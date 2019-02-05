@@ -15,21 +15,21 @@ background-color: black
     width: 900px;
     background-color: grey
     }
-/*CLASSES in css begin with a dot*/
-.class1{
-height: 100px;
-width: 70px;
-background-color: blueviolet
-}
-
-.class2{
-    height: 100px;
-    width: 300px;
-    background-color: red
-    }
-
-    .class3{
+    #class1{
         height: 100px;
-        width: 200px;
-        background-color: blue
+        width: 70px;
+        background-color: blueviolet
         }
+        
+        #class2{
+            height: 100px;
+            width: 300px;
+            background-color: red
+            }
+        
+            #class3{
+                height: 100px;
+                width: 200px;
+                background-color: blue
+                }
+/*CLASSES in css begin with a dot*/
