@@ -8,28 +8,35 @@ background-color: white
 height:300px;
 width:500px;
 background-color: black
-}
+};
 
 #area2{
     height:100px;
-    width: 900px;
+    width: 500px;
     background-color: grey
-    }
+    };
     #V{
         height: 100px;
-        width: 70px;
+        width: 500px;
         background-color: blueviolet
-        }
+        };
         
         #Dante{
             height: 100px;
-            width: 300px;
-            background-color: red
-            }
+            width: 500px;
+            background-color: rgb(255, 0, 0)
+            };
         
             #Trish{
                 height: 100px;
-                width: 200px;
-                background-color: blue
-                }
+                width: 500px;
+                background-color: rgb(0, 0, 255)
+                };
 /*CLASSES in css begin with a dot*/
+.Nero{
+background-color: blue
+}
+
+.Virgil{
+    background-color: red
+}
