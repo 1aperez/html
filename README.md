@@ -35,6 +35,7 @@ This website is a "tiled" website.  The goal is to use the floats and percents p
 
   |----footer width:100% height:100px background-color:black
 </pre>
+
 Challenge 3
 This website is designed to represent a typical "news feed" like article. This will include a title a picture and a description. You should create 3 of your own articles. Here are some of the css properties that you should use to make it look good.
 
